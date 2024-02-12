@@ -1,0 +1,63 @@
+
+[
+  {
+    "acnt_id": "1234567890",
+    "acnt_name": "John Doe",
+    "acnt_type": "Savings",
+    "balance": 5000.00
+  },
+  {
+    "acnt_id": "2345678901",
+    "acnt_name": "Jane Smith",
+    "acnt_type": "Checking",
+    "balance": 7000.00
+  },
+  {
+    "acnt_id": "3456789012",
+    "acnt_name": "Alice Johnson",
+    "acnt_type": "Savings",
+    "balance": 3000.00
+  },
+  {
+    "acnt_id": "4567890123",
+    "acnt_name": "Bob Williams",
+    "acnt_type": "Checking",
+    "balance": 9000.00
+  },
+  {
+    "acnt_id": "5678901234",
+    "acnt_name": "Emily Davis",
+    "acnt_type": "Savings",
+    "balance": 6000.00
+  },
+  {
+    "acnt_id": "6789012345",
+    "acnt_name": "Michael Wilson",
+    "acnt_type": "Checking",
+    "balance": 4000.00
+  },
+  {
+    "acnt_id": "7890123456",
+    "acnt_name": "Sophia Martinez",
+    "acnt_type": "Savings",
+    "balance": 8500.00
+  },
+  {
+    "acnt_id": "8901234567",
+    "acnt_name": "David Brown",
+    "acnt_type": "Checking",
+    "balance": 7500.00
+  },
+  {
+    "acnt_id": "9012345678",
+    "acnt_name": "Olivia Jones",
+    "acnt_type": "Savings",
+    "balance": 6200.00
+  },
+  {
+    "acnt_id": "0123456789",
+    "acnt_name": "Daniel Garcia",
+    "acnt_type": "Checking",
+    "balance": 8200.00
+  }
+]
